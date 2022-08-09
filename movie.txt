@@ -4,3 +4,4 @@ Thor
 Huggit
 Conan
 Doraemon
+One-Pieces
