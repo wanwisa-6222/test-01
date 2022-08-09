@@ -2,3 +2,4 @@ Red
 Blue 
 Orange
 Yellow
+Pink
