@@ -2,3 +2,5 @@ Starwar
 Xmen
 Thor
 Huggit
+Conan
+Doraemon
